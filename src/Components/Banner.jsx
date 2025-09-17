@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import backgroundImg from "..\\Images\\eric-muhr-8zskmq_yL6Q-unsplash.jpg";
 import axios from "axios";
 
 function Banner(){
