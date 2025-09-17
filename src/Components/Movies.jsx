@@ -1,5 +1,4 @@
 import React, {useState, useEffect, useContext} from "react";
-import bgImg from "..\\Images\\eric-muhr-8zskmq_yL6Q-unsplash.jpg";
 import Pagination from "./Pagination";
 import MovieCard from "./MovieCard";
 import axios from "axios";
